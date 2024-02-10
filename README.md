@@ -14,3 +14,8 @@ Login.java is the main file here which shows Login Window.
 Rules.java file shows another window which shows rules of the Quiz.
 <br>
 Run the Login.java file present in src
+<br>
+I've introduced to Java programming and its integral components such as the JVM, the JRE, and the Java class library. <br>
+This also provides an understanding of basic programming constructs and a hands-on experience with Java development tools.<br>
+This segment emphasizes key concepts like Java Syntax, Variables, Methods, Operators, and Control Statements.<br>
+OOPS and other essential concepts, advanced aspects of Java programming are unfolded.<br>
